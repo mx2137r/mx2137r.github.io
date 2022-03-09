@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @mx2137r
-- 👀 I’m interested in programing/game hacking
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on cheat creating
-- 📫 How to reach me? Wrte on: mxr2137@gmail.com
